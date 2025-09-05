@@ -1,4 +1,4 @@
-<div align="center"> <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" /> </div> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ravent+Dahiya!;Passionate+Fullstack+Developer!;Building+Digital+Experiences!" /> </h1> <div align="center">
+<div align="center"> </div> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=515&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ravent+Dahiya!;Passionate+Fullstack+Developer!;Building+Digital+Experiences!" /> </h1> <div align="center">
 🚀 Full-Stack Developer passionate about creating seamless digital experiences
 🌟 Specializing in Next.js, MERN Stack, AI Integration, and Modern Web Technologies
 🎓 Continuous learner exploring AI/ML, Next.js, and Cloud Technologies
