@@ -1,6 +1,6 @@
 <div align="center"> <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" /> </div> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ravent+Dahiya!;Passionate+Fullstack+Developer!;Building+Digital+Experiences!" /> </h1> <div align="center">
 🚀 Full-Stack Developer passionate about creating seamless digital experiences
-🌟 Specializing in Next js, MERN Stack, AI Integration, and Modern Web Technologies
+🌟 Specializing in Next.js, MERN Stack, AI Integration, and Modern Web Technologies
 🎓 Continuous learner exploring AI/ML, Next.js, and Cloud Technologies
 🌍 Based in India, building solutions for global impact
 💡 Problem Solver | Tech Enthusiast | Open Source Contributor
@@ -21,7 +21,7 @@ Cloud & Services
 Development Tools
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p> </div>
 🚀 Special Focus: Next.js Expertise
-<div align="center"> <img src="https://nextjs.org/static/blog/next-13/twitter-card.png" alt="Next.js" width="600" style="border-radius: 10px;" />
+<div align="center"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="80" height="80"/> </a>
 🔥 Next.js Mastery
 Next.js is my framework of choice for building modern, production-ready React applications. Here's what I bring to the table:
 
@@ -47,31 +47,72 @@ ClipPilot: AI video generation SaaS using Next.js with Remotion integration
 
 VisionAI: Full-stack AI-powered video platform
 
-⚙️ Next.js Tech Stack
-typescript
-// My go-to Next.js setup
-const nextjsStack = {
-  framework: "Next.js 15 with App Router",
-  styling: ["Tailwind CSS", "CSS Modules", "Styled Components"],
-  stateManagement: ["React Context", "Zustand", "React Query"],
-  authentication: ["NextAuth.js", "Clerk", "Custom JWT"],
-  database: ["Prisma + PostgreSQL", "MongoDB", "Convex"],
-  deployment: ["Vercel", "Railway", "Docker"],
-  testing: ["Jest", "React Testing Library", "Playwright"]
-};
+⚙️ My Next.js Development Stack
+Framework: Next.js 15 with App Router
+
+Styling: Tailwind CSS, CSS Modules, Styled Components
+
+State Management: React Context, Zustand, React Query
+
+Authentication: NextAuth.js, Clerk, Custom JWT
+
+Database: Prisma + PostgreSQL, MongoDB, Convex
+
+Deployment: Vercel, Railway, Docker
+
+Testing: Jest, React Testing Library, Playwright
+
 </div>
 🎯 Current Focus
-typescript
-const RaventDahiya = {
-    currentWork: "Building AI-powered SaaS platforms with Next.js",
-    currentlyLearning: ["Next.js 15 App Router", "AI Integration", "Advanced React Patterns"],
-    recentProjects: ["NextGen Helper AI", "ClipPilot Video Generator", "PlayTube Backend"],
-    askMeAbout: ["Next.js", "React", "Node.js", "AI Integration", "System Design"],
-    funFact: "I love building full-stack applications with Next.js! 🚀",
-    goals2025: "Launch multiple Next.js-powered SaaS products & contribute to open source"
-};
+Current Work: Building AI-powered SaaS platforms with Next.js
+Currently Learning: Next.js 15 App Router, AI Integration, Advanced React Patterns
+Recent Projects: NextGen Helper AI, ClipPilot Video Generator, PlayTube Backend
+Ask Me About: Next.js, React, Node.js, AI Integration, System Design
+Fun Fact: I love building full-stack applications with Next.js! 🚀
+Goals 2025: Launch multiple Next.js-powered SaaS products & contribute to open source
+
 🎨 Featured Projects
-<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🤖 NextGen Helper AI</h3> <div align="center"> <img width="400" src="https://via.placeholder.com/400x200/0066cc/ffffff?text=NextGen+Helper+AI" alt="NextGen Helper AI"/> <br><br> <p><strong>Professional AI Assistant Platform</strong></p> <p>🛠️ <strong>Tech Stack:</strong> Next.js 15, TypeScript, Convex, OpenRouter API</p> <p>🌟 <strong>Features:</strong> Multiple AI models (GPT, Gemini, Claude), Custom assistants, Real-time chat</p> <p>🚀 <a href="https://github.com/RaventDahiya/next_gen_healper"><strong>GitHub</strong></a></p> </div> </td> <td width="50%"> <h3 align="center">🎬 ClipPilot</h3> <div align="center"> <img width="400" src="https://via.placeholder.com/400x200/ff6b35/ffffff?text=ClipPilot+Video+AI" alt="ClipPilot"/> <br><br> <p><strong>AI Video Generation Platform</strong></p> <p>🛠️ <strong>Tech Stack:</strong> Next.js, React, Remotion, ElevenLabs, Gemini</p> <p>🌟 <strong>Features:</strong> Text-to-video, AI voiceover, Multiple styles, SaaS model</p> <p>🚀 <a href="https://github.com/RaventDahiya/clip_pilot"><strong>GitHub</strong></a></p> </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">📹 PlayTube Backend</h3> <div align="center"> <img width="400" src="https://via.placeholder.com/400x200/28a745/ffffff?text=PlayTube+Backend" alt="PlayTube Backend"/> <br><br> <p><strong>Complex Video Platform Backend</strong></p> <p>🛠️ <strong>Tech Stack:</strong> Node.js, Express, MongoDB, JWT, Bcrypt</p> <p>🌟 <strong>Features:</strong> Authentication, Video upload, User management, RESTful APIs</p> <p>🚀 <a href="https://github.com/RaventDahiya/playTube-backend"><strong>GitHub</strong></a></p> </div> </td> <td width="50%"> <h3 align="center">🏗️ Project Camp Backend</h3> <div align="center"> <img width="400" src="https://via.placeholder.com/400x200/6f42c1/ffffff?text=Project+Camp+Backend" alt="Project Camp Backend"/> <br><br> <p><strong>Project Management System</strong></p> <p>🛠️ <strong>Tech Stack:</strong> Node.js, Express, MongoDB, JWT, Cloudinary</p> <p>🌟 <strong>Features:</strong> RBAC, File uploads, Team collaboration, Authentication</p> <p>🚀 <a href="https://github.com/RaventDahiya/project-camp-backend"><strong>GitHub</strong></a></p> </div> </td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td width="50%">
+🤖 NextGen Helper AI
+Professional AI Assistant Platform
+
+🛠️ Tech Stack: Next.js 15, TypeScript, Convex, OpenRouter API
+
+🌟 Features: Multiple AI models (GPT, Gemini, Claude), Custom assistants, Real-time chat
+
+🚀 GitHub
+
+</td> <td width="50%">
+🎬 ClipPilot
+AI Video Generation Platform
+
+🛠️ Tech Stack: Next.js, React, Remotion, ElevenLabs, Gemini
+
+🌟 Features: Text-to-video, AI voiceover, Multiple styles, SaaS model
+
+🚀 GitHub
+
+</td> </tr> <tr> <td width="50%">
+📹 PlayTube Backend
+Complex Video Platform Backend
+
+🛠️ Tech Stack: Node.js, Express, MongoDB, JWT, Bcrypt
+
+🌟 Features: Authentication, Video upload, User management, RESTful APIs
+
+🚀 GitHub
+
+</td> <td width="50%">
+🏗️ Project Camp Backend
+Project Management System
+
+🛠️ Tech Stack: Node.js, Express, MongoDB, JWT, Cloudinary
+
+🌟 Features: RBAC, File uploads, Team collaboration, Authentication
+
+🚀 GitHub
+
+</td> </tr> </table> </div>
 📊 GitHub Analytics
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raventdahiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raventdahiya&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raventdahiya&layout=compact&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raventdahiya&repo=next_gen_healper&theme=tokyonight&hide_border=true" /> </div>
 🏆 Achievements & Skills
